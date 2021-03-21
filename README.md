@@ -1,2 +1,6 @@
 # Exercises-Python
-Aqui estão alguns exercicios de treinamento em Python, realizados por mim durante o estudo da linguaguem
+100 exercicios em Python.
+IDE usada será o Pycharm.
+
+Objetivo:
+Subir pelo menos 5 exercícios por dia programando ao minímo 1 hora por dia.
